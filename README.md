@@ -2,7 +2,7 @@
 
 Software developer and system administrator based in Russia. Currently a 3rd-year student in Programming and Computer Systems. 
 
-Focused on desktop C++ applications, Android client tools, full-stack web architectures, and Linux system administration.
+Focused on react, QTcreator, full-stack web architectures, and Linux system administration.
 
 ---
 
