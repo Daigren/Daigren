@@ -41,5 +41,5 @@ Focused on desktop C++ applications, Android client tools, full-stack web archit
 
 ### GitHub Metrics
 
-![Daigren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daigren&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daigren&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://streak-stats.demolab.com?user=Daigren&theme=dark&hide_border=true&background=0D1117)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Daigren&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
