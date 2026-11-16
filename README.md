@@ -30,7 +30,7 @@ Focused on react, QTcreator, full-stack web architectures, and Linux system admi
 
 * **[tg-ws-proxy-android](https://github.com/Daigren/tg-ws-proxy-android)** — Open-source Kotlin Android client port for WebSocket proxying.
 * **NovaCode** — AI-assisted educational mentor platform built on a PHP backend, Fetch API, and Gemini API integration.
-* **[react-speachflow](https://github.com/Daigren/react-speachflow)** — React web application for real-time speech recognition and text comparison.
+* **[react-speachflow](https://github.com/Daigren/SpeechFlow)** — React web application for real-time speech recognition and text comparison.
 * **Smart Notepad** — Desktop text editor built with Qt C++ featuring custom JSON settings serialization.
 * **[2B2T-Guide](https://daigren.github.io/2B2T-Guide/)** — Static documentation and survival guide hosted via GitHub Pages.
 
